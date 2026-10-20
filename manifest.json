@@ -1,0 +1,11 @@
+{
+  "name": "The Hollow \u2014 TeaHack Horror",
+  "short_name": "The Hollow",
+  "description": "Procedural multiplayer browser horror game",
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "orientation": "landscape",
+  "background_color": "#08090d",
+  "theme_color": "#08090d"
+}
